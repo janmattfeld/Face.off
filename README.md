@@ -1,6 +1,6 @@
 # Face.off!
 
-> Collect weapons and defenses, then activate them by a specific emotion to beat smash your opponent!
+> Collect weapons and defenses, then activate them by a specific emotion to smash your opponent!
 
 ![Feed.me Dashboard](./media/anger-screenshot.png)
 
